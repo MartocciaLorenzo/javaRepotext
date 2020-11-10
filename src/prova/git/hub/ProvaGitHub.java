@@ -15,7 +15,7 @@ public class ProvaGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double i=2;
+        int i=2;
         while(true){
             System.out.println("ciao: "+i);
             i = i * i;
